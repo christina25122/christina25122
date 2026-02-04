@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Loshni</h1>
-<h3 align="center">Aspiring Data Engineer | Python • SQL • ETL • Docker | MSc Data Science (UK)</h3>
+<h3 align="center">Aspiring Data Engineer | MSc Data Science (UK) | Python • SQL • ETL • Docker</h3>
 
 ---
 
@@ -11,41 +11,42 @@
 ---
 
 ## 🔭 I’m currently working on
-Building and refining end-to-end ETL pipelines with automation and data quality checks using UK Land Registry data.
+Designing and refining end-to-end pipelines with automation and data quality checks, leveraging UK Land Registry datasets.
 
 ## 🌱 I’m currently learning
-Data engineering system design, Docker orchestration, and modern data stack concepts.
+System design for large-scale data platforms, container orchestration with Docker, and modern analytics stack concepts.
 
 ## 💬 Ask me about
-ETL pipelines, data validation, and transitioning from analytics to data engineering.
+Building reliable pipelines, ensuring data integrity, and navigating the shift from analytics into backend infrastructure.
 
 ## ⚡ Fun fact
-I can’t look at a messy spreadsheet without wanting to clean it. Outside of data, I enjoy chess, piano, and learning Spanish.
+I first discovered data through a Business Intelligence class during my bachelor’s — and ever since, I can’t look at a messy spreadsheet without wanting to clean it. Outside of data, I enjoy chess, piano, and learning Spanish.
 
 ---
 
 ## 🚀 Featured Project
 
 ### UK House Price ETL Pipeline
-End-to-end ETL pipeline using UK government data with Python, SQL, PostgreSQL, and Docker focused on data cleaning, validation, and structured transformation.  
-🔗 https://github.com/christina25122/uk-house-price-etl
+An end-to-end pipeline built with Python, SQL, PostgreSQL, and Docker. Focused on cleaning, validating, and transforming UK government datasets into structured insights.  
+🔗 [View Project](https://github.com/christina25122/uk-house-price-etl)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=christina25122&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=christina25122&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=christina25122&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=christina25122&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=christina25122&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=christina25122&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christina25122&theme=radical&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=christina25122&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
