@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Loshni</h1>
 <h3 align="center">Aspiring Data Engineer | MSc Data Science (UK) | Python • SQL • ETL • Docker</h3>
 
----
 
 ## 🛠️ Technical Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,docker,git,github,linux" />
 </p>
 
----
 
 ## 🔭 I’m currently working on
 Designing and refining end-to-end pipelines with automation and data quality checks, leveraging UK Land Registry datasets.
@@ -20,9 +18,8 @@ System design for large-scale data platforms, container orchestration with Docke
 Building reliable pipelines, ensuring data integrity, and navigating the shift from analytics into backend infrastructure.
 
 ## ⚡ Fun fact
-I first discovered data through a Business Intelligence class during my bachelor’s — and ever since, I can’t look at a messy spreadsheet without wanting to clean it. Outside of data, I enjoy chess, piano, and learning Spanish.
+I first discovered data through a Business Intelligence class during my bachelor’s — and ever since, I can’t look at a messy spreadsheet without wanting to clean it. 
 
----
 
 ## 🚀 Featured Project
 
@@ -30,7 +27,6 @@ I first discovered data through a Business Intelligence class during my bachelor
 An end-to-end pipeline built with Python, SQL, PostgreSQL, and Docker. Focused on cleaning, validating, and transforming UK government datasets into structured insights.  
 🔗 [View Project](https://github.com/christina25122/uk-house-price-etl)
 
----
 
 ## 📊 GitHub Stats
 
