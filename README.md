@@ -49,12 +49,3 @@ Focused on cleaning, validating, and transforming UK government datasets into st
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=christina25122&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🎯 Vision
-To design systems that make data accessible, trustworthy, and impactful — while contributing to open-source projects and shaping safer digital ecosystems.
