@@ -37,8 +37,5 @@ End-to-end ETL pipeline using UK government data with Python, SQL, PostgreSQL, a
 
 ## 📈 GitHub Stats
 
-![Loshni's GitHub stats](https://github-readme-stats.vercel.app/api?username=christina25122&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=christina25122&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=christina25122&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christina25122&layout=compact&theme=radical)
